@@ -1,0 +1,14 @@
+.top-nav-links li a {
+  text-decoration: none;
+  color: white;
+  padding: 15px;
+}
+.top-nav-links li a:hover {
+  font-size: 25px;
+}
+
+@media screen and (max-width: 768px) {
+  #header-responsive-ads {
+    display: none;
+  }
+}
